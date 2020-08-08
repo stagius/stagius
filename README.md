@@ -41,6 +41,9 @@
 
 <img align="left" alt="stagius's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stagius&theme=buefy&show_icons=true&hide_border=true&count_private=true" />
 
+
+<br />
+
 ---
 
 <img align="left" alt="stagius's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=stagius&repo=material-components-web&theme=buefy" />
