@@ -7,7 +7,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" />]
+[<img align="left" alt="Java" width="26px" src="https://juhi0903.github.io/static/media/java.992d43d2.png" />]
 <!-- https://juhi0903.github.io/static/media/java.992d43d2.png -->
 [<img align="left" alt="Spring" width="26px" src="https://juhi0903.github.io/static/media/spring.793b3b97.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
