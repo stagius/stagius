@@ -34,7 +34,7 @@
 
 ---
 
-<img align="left" alt="stagius's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stagius&show_icons=true&hide_border=true" />
+<img align="left" alt="stagius's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stagius&show_icons=true&hide_border=true&count_private=true" />
 
 [youtube]: https://youtube.com/chechenmohmad
 [linkedin]: https://linkedin.com/in/magomed-istabiev-573099130/
