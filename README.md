@@ -43,6 +43,10 @@
 
 <img alt="stagius's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=stagius&repo=material-components-web&theme=buefy" />
 
+<img alt="stagius's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stagius" />
+
+
+
 
 
 [youtube]: https://youtube.com/chechenmohmad
