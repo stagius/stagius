@@ -39,7 +39,10 @@
 
 ---
 
-<img align="left" alt="stagius's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stagius&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="stagius's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stagius&theme=buefy&show_icons=true&hide_border=true&count_private=true" />
+
+<img align="left" alt="stagius's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=stagius&repo=github-readme-stats&theme=buefy" />
+
 
 [youtube]: https://youtube.com/chechenmohmad
 [linkedin]: https://linkedin.com/in/magomed-istabiev-573099130/
