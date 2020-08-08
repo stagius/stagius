@@ -46,7 +46,7 @@
 
 <img align="left" alt="stagius's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=stagius&repo=material-components-web&theme=buefy" />
 
-<img align="right" alt="stagius's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=stagius&repo=java-google-speech-api&theme=buefy" />
+<img align="right" alt="stagius's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=stagius&repo=java-design-patterns&theme=buefy" />
 
 
 
