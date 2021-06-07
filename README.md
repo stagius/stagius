@@ -5,8 +5,7 @@
 
 <br />
 
-### Languages and Tools:
-
+<h2 align="center">Languages and Tools:</h2>
 <img align="left" alt="Java" width="26px" src="https://juhi0903.github.io/static/media/java.992d43d2.png" />
 <img align="left" alt="Spring" width="26px" src="https://juhi0903.github.io/static/media/spring.793b3b97.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -19,15 +18,13 @@
 
 <br />
 
-### Join me:
-
+<h2 align="center">Join me:</h2>
 [<img align="left" alt="stagius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="stagius | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
-
-### 📺 Latest YouTube Videos
+<h2 align="center">📺 Latest YouTube Videos</h2>
 <!-- YOUTUBE:START -->
 - [Chains of Tomorrow [filler/scrap]](https://www.youtube.com/watch?v=taFeXE10yfA)
 - [DISTANCE. [2HC] [filler] (Clips in Desc)](https://www.youtube.com/watch?v=QV2v-aZKXOU)
