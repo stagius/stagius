@@ -25,8 +25,7 @@
 [<img align="left" alt="stagius | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
-</p>
----
+
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -36,8 +35,7 @@
 - [HARU [experimental] (Clips in desc)](https://www.youtube.com/watch?v=Vjchep7_rC0)
 - [I Can Still Feel It [Full 3D] #Ligie2KEC [2nd]](https://www.youtube.com/watch?v=AcVS71le5uY)
 <!-- YOUTUBE:END -->
-
----
+</p>
 
 <img alt="stagius's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stagius&theme=buefy&show_icons=true&hide_border=true&count_private=true" />
 
