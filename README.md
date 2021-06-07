@@ -1,7 +1,8 @@
-### Hello, I'm Magomed - aka [stagius]
-
-- 🔭 I'm a student in computer science aaaand... a Developer! 🤣
-- ⚡ I do like making edits, 3D animated short films and graphics.
+<h1 align="center">Hello, I'm Magomed - aka [stagius]</h1>
+<p align="center">
+🔭 I'm a student in computer science aaaand... a Developer! 🤣
+⚡ I do like making edits, 3D animated short films and graphics.
+</p>
 
 <br />
 
