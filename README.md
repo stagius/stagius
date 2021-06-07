@@ -5,8 +5,9 @@
 ⚡ I do like making edits, 3D animated short films and graphics.
 
 <br />
+  
 
-<h2>Languages and Tools:</h2>
+<h2>Stack</h2>
 
 <img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
 <img align="left" alt="Spring" width="26px" src="https://simpleicons.org/icons/spring.svg" />
@@ -25,6 +26,20 @@
 <h2>Still learning:</h2>
 
 <img align="left" alt="React" width="26px" src="https://simpleicons.org/icons/react.svg" />
+
+<br />
+
+<h2>Tools:</h2>
+
+<img align="left" alt="AE" width="26px" src="https://simpleicons.org/icons/adobeaftereffects.svg" />
+<img align="left" alt="PD" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" />
+<img align="left" alt="C4D" width="26px" src="https://simpleicons.org/icons/cinema4d.svg" />
+
+<br />
+
+<h2>And ❤️</h2>
+
+[<img align="left" alt="iJ" width="22px" src="https://simpleicons.org/icons/intellijidea.svg" />][linkedin]
 
 <br />
 
