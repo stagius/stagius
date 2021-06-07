@@ -3,10 +3,11 @@
   
 🔭 I'm a student in computer science aaaand... a Developer! 🤣<br />
 ⚡ I do like making edits, 3D animated short films and graphics.
+  
+</p>
 
 <br />
   
-
 <h2>Stack</h2>
 
 <img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
@@ -60,7 +61,7 @@
 - [I Can Still Feel It [Full 3D] #Ligie2KEC [2nd]](https://www.youtube.com/watch?v=AcVS71le5uY)
 <!-- YOUTUBE:END -->
 
-</p>
+
 
 <img alt="stagius's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stagius&theme=buefy&show_icons=true&hide_border=true&count_private=true" />
 
