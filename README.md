@@ -22,6 +22,12 @@
 
 <br />
 
+<h2>Still learning:</h2>
+
+<img align="left" alt="React" width="26px" src="https://simpleicons.org/icons/react.svg" />
+
+<br />
+
 <h2>Join me:</h2>
 
 [<img align="left" alt="stagius | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
