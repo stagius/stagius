@@ -5,7 +5,7 @@
 
 <br />
 
-<h2 align="center">Languages and Tools:</h2>
+<h2>Languages and Tools:</h2>
 
 <img align="left" alt="Java" width="26px" src="https://juhi0903.github.io/static/media/java.992d43d2.png" />
 <img align="left" alt="Spring" width="26px" src="https://juhi0903.github.io/static/media/spring.793b3b97.png" />
@@ -19,17 +19,14 @@
 
 <br />
 
-<h2 align="center">Join me:</h2>
-<span align="center">
-  
+<h2>Join me:</h2>
 [<img align="left" alt="stagius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="stagius | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-  
-</span>
+
 
 <br />
 
-<h2 align="center">📺 Latest YouTube Videos</h2>
+<h2>📺 Latest YouTube Videos</h2>
 
 <!-- YOUTUBE:START -->
 - [Chains of Tomorrow [filler/scrap]](https://www.youtube.com/watch?v=taFeXE10yfA)
