@@ -20,9 +20,12 @@
 <br />
 
 <h2 align="center">Join me:</h2>
-
+<span align="center">
+  
 [<img align="left" alt="stagius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="stagius | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+  
+</span>
 
 <br />
 
