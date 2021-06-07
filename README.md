@@ -2,7 +2,6 @@
 <p align="center">
 🔭 I'm a student in computer science aaaand... a Developer! 🤣<br />
 ⚡ I do like making edits, 3D animated short films and graphics.
-</p>
 
 <br />
 
@@ -26,7 +25,7 @@
 [<img align="left" alt="stagius | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
-
+</p>
 ---
 
 ### 📺 Latest YouTube Videos
