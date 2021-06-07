@@ -10,18 +10,20 @@
 
 <img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
 <img align="left" alt="Spring" width="26px" src="https://simpleicons.org/icons/spring.svg" />
+<img align="left" alt="JUnit5" width="26px" src="https://simpleicons.org/icons/junit5.svg" />
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />
+<img align="left" alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" />
 
 <br />
 
 <h2>Join me:</h2>
 
-[<img align="left" alt="stagius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="stagius | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="stagius | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="stagius | YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
 
 <br />
 
