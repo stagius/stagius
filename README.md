@@ -18,7 +18,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
 <img align="left" alt="Vue.js" width="26px" src="https://simpleicons.org/icons/vuedotjs.svg" />
-<img align="left" alt="Angular" width="26px" src="https://simpleicons.org/icons/angular.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />
 <img align="left" alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" />
 
@@ -27,6 +26,7 @@
 <h2>Still learning:</h2>
 
 <img align="left" alt="React" width="26px" src="https://simpleicons.org/icons/react.svg" />
+<img align="left" alt="Angular" width="26px" src="https://simpleicons.org/icons/angular.svg" />
 
 <br />
 
