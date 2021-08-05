@@ -70,5 +70,5 @@
 <img alt="stagius's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stagius&card_width=500&theme=buefy" />
 
 
-[youtube]: https://youtube.com/chechenmohmad
+[youtube]: https://youtube.com/stagius
 [linkedin]: https://linkedin.com/in/magomed-istabiev-573099130/
