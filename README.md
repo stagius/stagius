@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Magomed - aka [stagius]</h1>
 <p align="center">
   
-🔭 I'm a student in computer science aaaand... a Developer! 🤣<br />
+🔭 I'm a software engineer and a lifelong learner !<br />
 ⚡ I do like making edits, 3D animated short films and graphics.
   
 </p>
