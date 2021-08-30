@@ -69,4 +69,4 @@
 
 
 [youtube]: https://youtube.com/stagius
-[linkedin]: https://linkedin.com/in/magomed-istabiev-573099130/
+[linkedin]: https://linkedin.com/in/istabiev/
