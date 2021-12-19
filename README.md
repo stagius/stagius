@@ -40,7 +40,7 @@
 
 ### And ❤️ 
 
-[<img align="left" alt="iJ" width="22px" src="https://simpleicons.org/icons/intellijidea.svg" />]
+<img align="left" alt="iJ" width="22px" src="https://simpleicons.org/icons/intellijidea.svg" />
 
 <br />
 
