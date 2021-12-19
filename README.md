@@ -69,4 +69,3 @@
 
 
 [youtube]: https://youtube.com/stagius
-[linkedin]: https://linkedin.com/in/istabiev/
