@@ -40,13 +40,12 @@
 
 ### And ❤️ 
 
-[<img align="left" alt="iJ" width="22px" src="https://simpleicons.org/icons/intellijidea.svg" />][linkedin]
+[<img align="left" alt="iJ" width="22px" src="https://simpleicons.org/icons/intellijidea.svg" />][]
 
 <br />
 
 <h2>Join me:</h2>
 
-[<img align="left" alt="stagius | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="stagius | YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
 
 <br />
