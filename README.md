@@ -10,7 +10,7 @@
   
 <h2>Stack</h2>
 
-<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
+<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-wordmark.svg" />
 <img align="left" alt="Spring" width="26px" src="https://simpleicons.org/icons/spring.svg" />
 <img align="left" alt="JUnit5" width="26px" src="https://simpleicons.org/icons/junit5.svg" />
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
