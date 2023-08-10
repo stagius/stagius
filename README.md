@@ -12,16 +12,7 @@
 
 | Backend | Frontend |
 | --- | --- |
-| <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-wordmark.svg" />
-<img align="left" alt="Spring" width="26px" src="https://simpleicons.org/icons/spring.svg" />
-<img align="left" alt="JUnit5" width="26px" src="https://simpleicons.org/icons/junit5.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />
-<img align="left" alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" /> | <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
-<img align="left" alt="Angular" width="26px" src="https://simpleicons.org/icons/angular.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" alt="Vue.js" width="26px" src="https://simpleicons.org/icons/vuedotjs.svg" /> |
+| <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-wordmark.svg" /> <img align="left" alt="Spring" width="26px" src="https://simpleicons.org/icons/spring.svg" /> <img align="left" alt="JUnit5" width="26px" src="https://simpleicons.org/icons/junit5.svg" /> <img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" /> <img align="left" alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" /> | <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" /> <img align="left" alt="Angular" width="26px" src="https://simpleicons.org/icons/angular.svg" /> <img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" /> <img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" /> <img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" /> <img align="left" alt="Vue.js" width="26px" src="https://simpleicons.org/icons/vuedotjs.svg" /> |
 
 <br />
 
