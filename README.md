@@ -16,7 +16,8 @@
 | <img align="center" alt="Spring" width="26px" src="https://simpleicons.org/icons/spring.svg" /> | <img align="center" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" /> | <img align="center" alt="Oracle" width="26px" src="https://simpleicons.org/icons/oracle.svg" /> | <img align="center" alt="AE" width="26px" src="https://simpleicons.org/icons/adobeaftereffects.svg" /> |
 | <img align="center" alt="JUnit5" width="26px" src="https://simpleicons.org/icons/junit5.svg" /> | <img align="center" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" /> | <img align="center" alt="SQL Server" width="26px" src="https://simpleicons.org/icons/microsoftsqlserver.svg" /> | <img align="center" alt="PD" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" /> |
 | <img align="center" alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" /> | <img align="center" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" /> | | <img align="center" alt="C4D" width="26px" src="https://simpleicons.org/icons/cinema4d.svg" /> |
-| <img align="center" alt="Tomcat" width="26px" src="https://simpleicons.org/icons/apachetomcat.svg" /> | <img align="center" alt="Vue.js" width="26px" src="https://simpleicons.org/icons/vuedotjs.svg" /> | <img align="center" alt="iJ" width="22px" src="https://simpleicons.org/icons/intellijidea.svg" /> |
+| <img align="center" alt="Tomcat" width="26px" src="https://simpleicons.org/icons/apachetomcat.svg" /> | <img align="center" alt="Vue.js" width="26px" src="https://simpleicons.org/icons/vuedotjs.svg" /> | | <img align="center" alt="iJ" width="22px" src="https://simpleicons.org/icons/intellijidea.svg" /> |
+
 
 <br />
 
