@@ -44,27 +44,7 @@
 
 <br />
 
-<h2>Join me:</h2>
-
-[<img align="left" alt="stagius | YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
-
-<br />
-
-<h2>📺 Latest YouTube Videos</h2>
-
-<!-- YOUTUBE:START -->
-- [Chains of Tomorrow [filler/scrap]](https://www.youtube.com/watch?v=taFeXE10yfA)
-- [DISTANCE. [2HC] [filler] (Clips in Desc)](https://www.youtube.com/watch?v=QV2v-aZKXOU)
-- [State of Fear (Animated 3D Short Film)](https://www.youtube.com/watch?v=Ckd4I_sJMQw)
-- [HARU [experimental] (Clips in desc)](https://www.youtube.com/watch?v=Vjchep7_rC0)
-- [I Can Still Feel It [Full 3D] #Ligie2KEC [2nd]](https://www.youtube.com/watch?v=AcVS71le5uY)
-<!-- YOUTUBE:END -->
-
-
-
 <img alt="stagius's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=stagius&repo=material-components-web&theme=buefy" />
 
 <img alt="stagius's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stagius&card_width=500&theme=buefy" />
 
-
-[youtube]: https://youtube.com/stagius
