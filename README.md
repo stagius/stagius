@@ -16,20 +16,13 @@
 | <img align="left" alt="Spring" width="26px" src="https://simpleicons.org/icons/spring.svg" /> | <img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" /> | <img align="left" alt="Oracle" width="26px" src="https://simpleicons.org/icons/oracle.svg" /> | <img align="left" alt="AE" width="26px" src="https://simpleicons.org/icons/adobeaftereffects.svg" /> |
 | <img align="left" alt="JUnit5" width="26px" src="https://simpleicons.org/icons/junit5.svg" /> | <img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" /> | <img align="left" alt="SQL Server" width="26px" src="https://simpleicons.org/icons/microsoftsqlserver.svg" /> | <img align="left" alt="PD" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" /> |
 | <img align="left" alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" /> | <img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" /> | | <img align="left" alt="C4D" width="26px" src="https://simpleicons.org/icons/cinema4d.svg" /> |
-|  | <img align="left" alt="Vue.js" width="26px" src="https://simpleicons.org/icons/vuedotjs.svg" /> |
+|  | <img align="left" alt="Vue.js" width="26px" src="https://simpleicons.org/icons/vuedotjs.svg" /> | | <img align="left" alt="iJ" width="22px" src="https://simpleicons.org/icons/intellijidea.svg" /> |
 
 <br />
 
 <h2>Still learning:</h2>
 
 <img align="left" alt="React" width="26px" src="https://simpleicons.org/icons/react.svg" />
-
-
-<br />
-
-### And ❤️ 
-
-<img align="left" alt="iJ" width="22px" src="https://simpleicons.org/icons/intellijidea.svg" />
 
 <br />
 
