@@ -2,14 +2,13 @@
 <p align="center">
   
 🔭 I'm a software engineer and a lifelong learner !<br />
-⚡ I do like making edits, 3D animated short films and graphics.
-  
+⚡ I do like creating edits, 3D animated short films and graphics.
+
 </p>
 
 <br />
   
 <h2>Stack</h2>
-
 
 <h3>Backend</h3>
 <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-wordmark.svg" />
