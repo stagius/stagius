@@ -10,13 +10,13 @@
   
 <h2>Stack</h2>
 
-| Backend | Frontend | Database | Tools |
-| --- | --- | --- | --- |
-| <img align="center" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-wordmark.svg" /> | <img align="center" alt="Angular" width="26px" src="https://simpleicons.org/icons/angular.svg" />         | <img align="center" alt="MySQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" /> | <img align="center" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" /> |
-| <img align="center" alt="Spring" width="26px" src="https://simpleicons.org/icons/spring.svg" />               | <img align="center" alt="Vue.js" width="26px" src="https://simpleicons.org/icons/vuedotjs.svg" />         | <img align="center" alt="Oracle" width="26px" src="https://simpleicons.org/icons/oracle.svg" /> | <img align="center" alt="AE" width="26px" src="https://simpleicons.org/icons/adobeaftereffects.svg" /> |
-| <img align="center" alt="JUnit5" width="26px" src="https://simpleicons.org/icons/junit5.svg" />               | <img align="center" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />   | <img align="center" alt="Firebase" width="26px" src="https://simpleicons.org/icons/firebase.svg" /> | <img align="center" alt="PD" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" /> |
-| <img align="center" alt="Tomcat" width="26px" src="https://simpleicons.org/icons/apachetomcat.svg" />         | <img align="center" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />             |  | <img align="center" alt="C4D" width="26px" src="https://simpleicons.org/icons/cinema4d.svg" /> |
-| <img align="center" alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" />               | <img align="center" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />               | | <img align="center" alt="iJ" width="22px" src="https://simpleicons.org/icons/intellijidea.svg" /> |
+| Backend                                 | Frontend                                   | Database                              | Tools                                       |
+|-----------------------------------------|--------------------------------------------|---------------------------------------|---------------------------------------------|
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/java.svg" alt="Java" width="20"/> Java      | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/angular.svg" alt="Angular" width="20"/> Angular    | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/postgresql.svg" alt="PostgreSQL" width="20"/> PostgreSQL | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/git.svg" alt="Git" width="20"/> Git           |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/spring.svg" alt="Spring" width="20"/> Spring  | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/vue-dot-js.svg" alt="Vue.js" width="20"/> Vue.js  | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/oracle.svg" alt="Oracle" width="20"/> Oracle     | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/azuredevops.svg" alt="Azure DevOps" width="20"/> Azure DevOps |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/node-dot-js.svg" alt="Node.js" width="20"/> Node.js   | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/javascript.svg" alt="JavaScript" width="20"/> JavaScript | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/mongodb.svg" alt="MongoDB" width="20"/> MongoDB  | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/postman.svg" alt="Postman" width="20"/> Postman      |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/laravel.svg" alt="Laravel" width="20"/> Laravel  | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/html5.svg" alt="HTML5" width="20"/> HTML5       | —                                     | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/cypress.svg" alt="Cypress" width="20"/> Cypress      |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/docker.svg" alt="Docker" width="20"/> Docker   | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/css3.svg" alt="CSS3" width="20"/> CSS3         | —                                     | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/intellijidea.svg" alt="IntelliJ IDEA" width="20"/> IntelliJ IDEA |
 
 
 
@@ -30,8 +30,6 @@
 <br />
 
 ---
-
-<img alt="stagius's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=stagius&repo=material-components-web&theme=buefy" />
 
 <img alt="stagius's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stagius&card_width=500&theme=buefy" />
 
