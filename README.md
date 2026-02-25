@@ -33,4 +33,4 @@ Building critical apps for businesses and automating processes.
 
 ## AI & Developer Tools
 
-- [**flowize**](https://github.com/stagius/flowize) - Interface for running a parallel GitHub workflow from raw task input to merged pull request. ![](https://img.shields.io/github/stars/stagius/flowize?style=flat&color=222&logo=github&label=)
+- [**flowize**](https://github.com/stagius/flowize) - UI for running parallel GitHub workflows from raw task input to merged pull request. ![](https://img.shields.io/github/stars/stagius/flowize?style=flat&color=222&logo=github&label=)
