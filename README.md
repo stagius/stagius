@@ -29,3 +29,8 @@ Building critical apps for businesses and automating processes.
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-233A51?style=flat-square&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+
+
+## AI & Developer Tools
+
+- [**flowize**](https://github.com/stagius/flowize) - Interface for running a parallel GitHub workflow from raw task input to merged pull request. ![](https://img.shields.io/github/stars/stagius/flowize?style=flat&color=222&logo=github&label=)
